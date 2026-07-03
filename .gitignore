@@ -1,0 +1,15 @@
+# Django
+backend/db.sqlite3
+__pycache__/
+*.pyc
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# Environment secrets
+frontend/.env
+backend/.env
+
+# OS
+.DS_Store

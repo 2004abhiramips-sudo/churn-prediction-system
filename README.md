@@ -136,7 +136,7 @@ The frontend will run at `http://localhost:3000/`
 ## Author
 
 **Abhirami P S**
-- GitHub: [@2004abhiramips-sudo](https://github.com/2004abhiramips-sudo)
+- GitHub: [@ps-abhirami](https://github.com/ps-abhirami)
 - LinkedIn: [abhirami-ps](https://www.linkedin.com/in/abhirami-ps)
 
 ---
